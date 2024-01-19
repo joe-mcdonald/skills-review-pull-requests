@@ -9,7 +9,7 @@
 
 # Review pull requests
 
-_Collaborate and work together on GitHub._
+For this, I just followed the steps and waited for the readme to refresh. I didn't have any issues with this and it definetly helped me understand how to use the pull request feature.
 
 </header>
 
